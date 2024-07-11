@@ -60,9 +60,9 @@ export default function Navbar() {
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="#">PRICING</a>
         </li>
-        <div class="d-grid gap-2 d-md-flex  justify-content-end right-0">
-            <button class="btn btn-light me-md-2" type="button">Login</button>
-            <button class="btn btn-primary" type="button">Button</button>
+        <div class="d-grid gap-2 d-md-flex  btn">
+            <button class="btn btn-outline-dark me-md-2 " type="button">Login</button>
+            <button class="btn btn-outline-dark  mx-0" type="button">Button</button>
         </div>
 
       </ul>
